@@ -5,10 +5,9 @@ module.exports = {
 		extend: {
 			fontFamily: {
 				sans: [
-					"Agrandir Medium, sans-serif"],
+					"Poppins, sans-serif"],
     	},
 			container: {
-				padding: '4rem',
 				center: true,
 			},
 		},
